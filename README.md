@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fuzi
+- 👋 Hi, I’m @EchiiProgrammer
 - 👀 I’m interested in Software and Hardware tecnologies
 - 🌱 I’m currently learning Java, C++ and MySQL DataBase
 - 💞️ I’m looking to collaborate on software project with focus on GPU and CPU processes
